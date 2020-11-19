@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>ANSHUL AGRAWAL</title>
+<title>SANYA SINGH</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
